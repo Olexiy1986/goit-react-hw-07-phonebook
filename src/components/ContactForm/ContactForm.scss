@@ -1,0 +1,23 @@
+.ContactForm {
+  padding: 10px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  background-color: skyblue;
+
+  .button {
+    width: 200px;
+    color: white;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+  .input1 {
+    margin-left: 52px;
+  }
+
+  .input2 {
+    margin-left: 38px;
+  }
+}
